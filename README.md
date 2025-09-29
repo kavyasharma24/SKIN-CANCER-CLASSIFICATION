@@ -1,1 +1,3 @@
-# skin-cancer-classification
+
+# SKIN-CANCER-CLASSIFICATION
+
